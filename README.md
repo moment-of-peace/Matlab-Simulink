@@ -1,5 +1,5 @@
 # Matlab-Simulink
-Matlab programs and Simulink models
+Matlab programs and Simulink models. Author: Yi Liu. Email: yi.liu1183@gmail.com
 
 dsp: contains filters and windows design, downsampling and upsampling, GCD, FFT algorithms implementation
 
@@ -8,3 +8,5 @@ communication-sys: psk modulation and demodulation; hamming, crc, convolutional,
 rician-channel: simulations and tests of Rician Channel using Simulink
 
 other-pracs: Markov Chain, OFDM
+
+comp_crc16.m, crc16_table.m, crcmaketable.m are owned by the University of Queensland
