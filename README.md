@@ -1,5 +1,5 @@
 # Matlab-Simulink
-Matlab programs and Simulink models. Author: Yi Liu. Email: yi.liu1183@gmail.com
+Matlab programs and Simulink models. Author: Yi Liu.
 
 dsp: contains filters and windows design, downsampling and upsampling, GCD, FFT algorithms implementation
 
